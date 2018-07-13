@@ -1,0 +1,41 @@
+﻿@model List<WebFinal.Models.DataForm>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>All Resevertions</h3>
+<div class="container">
+    <div class="row justify-content-end">
+        <div class="col-md-12 col-md-offset-11">
+            @Html.ActionLink("Back", "Index")
+        </div>
+    </div>
+    <div class="row">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">City</th>
+                    <th scope="col">Weather Description</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.NameC</td>
+                    <td>@item.DescriptionforCloud</td>
+                    <td><img src="@item.iconURL" alt="Image" /></td>
+                    
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

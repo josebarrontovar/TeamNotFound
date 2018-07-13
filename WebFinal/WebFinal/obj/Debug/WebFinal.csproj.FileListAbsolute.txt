@@ -1,0 +1,223 @@
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\ApplicationInsights.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\WebFinal.dll.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\WebFinal.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\WebFinal.pdb
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\csc.exe
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\csc.exe.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\csc.rsp
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\csi.exe
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\csi.exe.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\csi.rsp
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.AppContext.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Console.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\vbc.exe
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\vbc.exe.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\vbc.rsp
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Antlr3.Runtime.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\EntityFramework.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.Web.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Newtonsoft.Json.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Net.Http.Extensions.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Net.Http.Formatting.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Net.Http.Primitives.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Helpers.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Http.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Http.WebHost.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Mvc.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Optimization.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Razor.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.WebPages.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\WebGrease.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\EntityFramework.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Newtonsoft.Json.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Net.Http.Extensions.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Net.Http.Primitives.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Net.Http.Formatting.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Helpers.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Http.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Http.WebHost.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Mvc.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Optimization.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.Razor.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.WebPages.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Antlr3.Runtime.pdb
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.AI.Web.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.App.config
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.csprojAssemblyReference.cache
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.CoreCompileInputs.cache
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.CopyComplete
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.dll
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.pdb
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.Migrations.InitialCreate.resources
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.GenerateResource.cache
+C:\Users\jose.barron\Desktop\PFinal\WebFinal\WebFinal\obj\Debug\WebFinal.Migrations.hola.resources
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.App.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.csprojAssemblyReference.cache
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.Migrations.InitialCreate.resources
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.Migrations.hola.resources
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.GenerateResource.cache
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.pdb
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\ApplicationInsights.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\WebFinal.dll.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\WebFinal.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\WebFinal.pdb
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\csc.exe
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\csc.exe.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\csc.rsp
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\csi.exe
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\csi.exe.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\csi.rsp
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.AppContext.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Console.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\vbc.exe
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\vbc.exe.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\vbc.rsp
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Antlr3.Runtime.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\EntityFramework.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.Web.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Newtonsoft.Json.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Net.Http.Extensions.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Net.Http.Formatting.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Net.Http.Primitives.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Helpers.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Http.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Http.WebHost.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Mvc.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Optimization.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Razor.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.WebPages.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\WebGrease.dll
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\EntityFramework.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Newtonsoft.Json.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Net.Http.Extensions.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Net.Http.Primitives.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Net.Http.Formatting.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Helpers.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Http.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Http.WebHost.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Mvc.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Optimization.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.Razor.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.WebPages.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Antlr3.Runtime.pdb
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.AI.Web.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.csproj.CopyComplete
+C:\Users\ricardo.sauceda\Desktop\Casi Final\WebFinal\WebFinal\obj\Debug\WebFinal.Migrations.ChangeProper.resources
